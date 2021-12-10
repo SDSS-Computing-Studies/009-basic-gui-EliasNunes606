@@ -10,7 +10,8 @@ label = tk.Label(window, image=dogphoto)
 label.grid(row=1,column=1)
 
 label1 = tk.Label(window,text="Client Database")
-label1.grid(row=1,column=3)
+label1.grid(row=1,column=)
+label2 = tk.Label(window,text=)
 
 
 
